@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Airme
-- 👀 I’m interested in software engineering
-- 🌱 I’m currently learning web development on the Odin Project and FreeCodeCamp
-- 💞️ I’m looking to collaborate on C, C++ and JavaScript
+- 👋 Hi, I’m Emmanuel Ochoja
+- A Software engineering
+- Skilled in Python, JavaScript, C and C++
+- Proficient with React JS, Tailwind CSS and with knowledge of Node 
 
 <!---
 Airme1/Airme1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
